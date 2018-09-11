@@ -1,0 +1,10 @@
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\bin\Debug\DosageCalc.exe.config
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\bin\Debug\DosageCalc.exe
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\bin\Debug\DosageCalc.pdb
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.Properties.Resources.resources
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.csproj.GenerateResource.Cache
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.exe
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.pdb
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.Dosage_Calculator.resources
+C:\Users\Joseph\source\repos\DosageCalc\DosageCalc\obj\Debug\DosageCalc.csprojResolveAssemblyReference.cache
